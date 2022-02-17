@@ -33,22 +33,22 @@ Dans cette solution, nous avons éliminé l'utilisation de boucles imbriquées, 
 ## Cas de test
 On utilise POSTMAN pour les tests
 ### Test 1 : tableau vide
-![](/docs/assets/Captures/Test 1.PNG)
+![](/docs/assets/Captures/Test1.PNG)
 
 ### Test 2 : tableau simple
-![](/docs/assets/Captures/Test 2.PNG)
+![](/docs/assets/Captures/Test2.PNG)
 
 ### Test 3 : tableau simple
-![](/docs/assets/Captures/Test 3.PNG)
+![](/docs/assets/Captures/Test3.PNG)
 
 ### Test 4 : tableau simple
-![](/docs/assets/Captures/Test 4.PNG)
+![](/docs/assets/Captures/Test4.PNG)
 
 ### Test 5 : tableau complexe
-![](/docs/assets/Captures/Test 5.PNG)
+![](/docs/assets/Captures/Test5.PNG)
 
 ### Test 6 : tableau complexe
-![](/docs/assets/Captures/Test 6.PNG)
+![](/docs/assets/Captures/Test6.PNG)
 
 ## Utilisation
 
