@@ -1,0 +1,4 @@
+{
+    "entryPoints": ["./src/Batiments.ts", "./src/index.ts"],
+    "out": "docs"
+}

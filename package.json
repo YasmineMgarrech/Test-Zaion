@@ -1,0 +1,25 @@
+{
+  "name": "test-zaion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "ts-node-dev --respawn --pretty --transpile-only src/index.ts",
+    "build-docs": "npx typedoc --entryPointStrategy expand src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "dotenv": "^16.0.0",
+    "jest": "^27.4.7",
+    "ts-jest": "^27.1.3"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typedoc": "^0.22.11",
+    "typedoc-plugin-rename-defaults": "^0.4.0",
+    "typescript": "^4.5.5"
+  }
+}
