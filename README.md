@@ -50,6 +50,9 @@ On utilise POSTMAN pour les tests
 ### Test 6 : tableau complexe
 ![](/docs/assets/Captures/Test6.PNG)
 
+### jest Result 
+![](/docs/assets/Captures/Jest.PNG)
+
 ## Utilisation
 
 Installez toutes les dépendances nécessaires
